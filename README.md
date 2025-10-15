@@ -7,8 +7,10 @@ The code implementation is not guaranteed to be correct.
 ## Updates:
 ### HW1 
 Uploaded on 2025.10.14
+
 Passed all tests
 ### HW2
 Uploaded on 2025.10.15
+
 Passed all tests
 
