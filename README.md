@@ -1,6 +1,8 @@
 # Personal Homework Solution of cmu11868：LLMSys
 My personal homework solutions.
+
 This project repository is for learning and communication purposes only.
+
 The code implementation is not guaranteed to be correct.
 ## Updates:
 ### HW1 
