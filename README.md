@@ -1,4 +1,4 @@
-# Personal Homework Solution of cmu11868：LLMSys
+# Personal Solution to Homeworks of CMU11868：LLMSYS
 My personal homework solutions.
 
 This project repository is for learning and communication purposes only.
