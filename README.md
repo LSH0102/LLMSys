@@ -19,7 +19,7 @@ Uploaded on 2025.10.18
 Passed all tests
 modified the View function in minitorch/tensor_functions.py
 
-'''python
+```python
 @staticmethod
     def backward(ctx: Context, grad_output: Tensor) -> Tuple[Tensor, float]:
         (original,) = ctx.saved_values
