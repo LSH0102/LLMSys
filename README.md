@@ -33,7 +33,13 @@ modified the View function in minitorch/tensor_functions.py
         )
 ```
 
-Added two lines to guarantee that the grad is contiguous, other the grad would not propagate properly due to the use of permute.
+Added two lines :
+```python
+
+if grad_output._tensor.is_contiguous()==False:
+    grad_output=grad_output.contiguous()       
+```
+to guarantee that the grad is contiguous, other the grad would not propagate properly due to the use of permute.
 ### HW4
 Completed on 2025.10.18
 
