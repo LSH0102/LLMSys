@@ -13,6 +13,8 @@ Passed all tests
 Uploaded on 2025.10.15
 
 Passed all tests
+
+Achieved 75% correctness at around 70th epoch
 ### HW3
 Uploaded on 2025.10.18
 
