@@ -30,7 +30,8 @@ modified the View function in minitorch/tensor_functions.py
                 grad_output._tensor._storage, original, backend=grad_output.backend
             ),
             0.0,
-        )
+        )```
+
 Added two lines to guarantee that the grad is contiguous, other the grad would not propagate properly due to the use of permute.
 ### HW4
 Completed on 2025.10.18
