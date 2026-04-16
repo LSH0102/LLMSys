@@ -4,6 +4,8 @@ My personal homework solutions.
 This project repository is for learning and communication purposes only.
 
 The code implementation is not guaranteed to be correct.
+
+I am not going to complete HW6 and HW7. 
 ## Updates:
 ### HW1 
 Uploaded on 2025.10.14
@@ -49,3 +51,13 @@ Completed on 2025.10.18
 Uploaded on 2025.10.19
 
 Passed all tests
+
+### HW5
+Completed on 2026.4.8
+
+Uploaded on 2026.4.16
+
+Passed all tests
+
+Run on 2 48GB GPUs
+
